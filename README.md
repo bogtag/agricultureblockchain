@@ -1,0 +1,2 @@
+# agricultureblockchain
+Commodity crypto-exchange that allows you to organize a marketplace (exchange) for concluding futures contracts (essentially, selling products that will be produced in the future as a form of lending), attracting a large amount of speculative capital anonymous small private investors and organize barter exchange of products and anonymous speculation through the token system and internal cryptocurrency using blockchain technology.
